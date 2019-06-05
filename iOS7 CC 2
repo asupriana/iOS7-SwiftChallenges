@@ -1,0 +1,26 @@
+// Are the letters unique?
+// Write a function that accepts a string as its only param and returns
+// true if the string has only unique letters taking letter case into account.
+
+func isUnique(_ input: String) -> Bool {
+
+}
+
+func isUnique2(_ input: String) -> Bool {
+  
+}
+
+// call function
+print(isUnique("AaBbCc"))         // true
+print(isUnique("Hello, world!"))  // false
+print(isUnique2("AaBbCc"))         // true
+print(isUnique2("Hello, world!"))  // false
+
+// Swift 4
+func isUnique3(_ input: String) -> Bool {
+   
+}
+
+
+print(isUnique3("AaBbCc"))         // true
+print(isUnique3("Hello, world!"))  // false
